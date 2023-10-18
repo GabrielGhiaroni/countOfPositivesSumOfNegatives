@@ -1,6 +1,6 @@
 ### Count of Positives, Sum of Negatives
 ------------------------------------------
-##### *This is a CodeWars Challenge
+##### **This is a CodeWars Challenge
 
 
 **DESCRIPTION:**
